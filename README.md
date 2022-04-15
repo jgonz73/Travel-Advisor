@@ -7,9 +7,10 @@ Firebase https://firebase.google.com/?gclid=Cj0KCQiA7NKBBhDBARIsAHbXCB7rQ-NOT4Pw
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project requires an Android emulator installed/supported to run in IDE. Android Studio and Visual Studio Code are main IDE's used in development.
+Credit to Ali, Meet, and Verdant for working in development team using Jira.
 
-A few resources to get you started if this is your first Flutter project:
+A few resources for starting Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
